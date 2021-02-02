@@ -86,6 +86,7 @@ if (number15 == number16) {
     console.log('Condition is false');
 }
 
+// doubleIt
 const number15 = 1;
 const number16 = true;
 if (number15 === number16) {
